@@ -1,3 +1,5 @@
+import PageHeader from '../../components/PageHeader';
+
 export default function Home() {
-  return 'Homepage';
+  return <PageHeader title="Editar Mateus Silva" />;
 }
